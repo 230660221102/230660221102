@@ -1,4 +1,6 @@
-## Hallo guys!
-- add foto
-![img 1](foto/foto1.png)
+# Hi, Im Joyy
+- Kids Need to Learn!
+
+
+
 
