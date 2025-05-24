@@ -1,7 +1,7 @@
 # 🔗 Portfolio Website
 Ini adalah proyek yang dikembangkan sebagai bagian dari Ujian Tengah Semester (UTS) saya. Proyek ini berfokus pada pembangunan antarmuka pengguna interaktif menggunakan HTML, CSS, dan JavaScript, serta menjadi fondasi untuk portofolio pribadi ini.
 
-## Preview Portfolio
+## Preview Portfolio 📸
 **Dark Mode Toggle ☀️:**
 ![projects](images/preview1.png)
 **Dark Mode Toggle 🌙:**
@@ -69,7 +69,7 @@ Untuk melihat portofolio ini secara lokal di komputer Anda:
 3.  **Buka file `index.html`** di browser pilihan Anda.
     (Anda bisa langsung double-klik file `index.html` di explorer/finder Anda, atau menggunakan ekstensi "Live Server" jika Anda menggunakan VS Code untuk pengalaman pengembangan yang lebih baik.)
 
-## Kontak 📧
+## Kontak 📩
 
 Jangan ragu untuk menghubungi saya melalui:
 * **Instagram:** [@ejaavin_](https://www.instagram.com/ejaavin_/) 📸
