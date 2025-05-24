@@ -2,7 +2,10 @@
 Ini adalah proyek yang dikembangkan sebagai bagian dari Ujian Tengah Semester (UTS) saya. Proyek ini berfokus pada pembangunan antarmuka pengguna interaktif menggunakan HTML, CSS, dan JavaScript, serta menjadi fondasi untuk portofolio pribadi ini.
 
 ## Preview Portfolio
-![fotopribadi](images/fotopribadi.png)
+### Preview satu
+![projects](images/images/preview1.png)
+### Preview dua darkmode
+![projects](images/images/preview1.png)
 
 
 ## Struktur Proyek 📂
@@ -28,28 +31,28 @@ Repositori ini diatur dengan struktur yang rapi untuk memudahkan navigasi:
 
 ## 🚀 Fitur Utama 
 ### 1.	Header/Navigation✅
-o Menu navigasi responsif
-o Logo personal
-o Smooth scrolling ke setiap section
+* Menu navigasi responsif
+* Logo personal
+* Smooth scrolling ke setiap section
 ### 2.	Hero Section✅
-o Foto profile profesional
-o Nama dan tagline
-o Social media links
+* Foto profile profesional
+* Nama dan tagline
+* Social media links
 ### 3.	About Me✅
-o Deskripsi personal
-o Skills/expertise dengan progress bar
-o Education timeline
+* Deskripsi personal
+* Skills/expertise dengan progress bar
+* Education timeline
 ### 4.	Portfolio Gallery ✅
-o Grid layout dengan 6 proyek
-o Lightbox preview untuk setiap proyek
-o Filter kategori menggunakan JavaScript
+* Grid layout dengan 6 proyek
+* Lightbox preview untuk setiap proyek
+* Filter kategori menggunakan JavaScript
 ### 5.	JavaScript fitur ✅
-o Form contact dengan validasi 
-o Dark/Light mode toggle 
+* Form contact dengan validasi 
+* Dark/Light mode toggle 
 ### 6. Styling & Responsiveness ✅
-o Desain modern & profesional
-o Mendukung berbagai perangkat dengan media queries
-o Konsistensi dalam color scheme (# dan #)
+* Desain modern & profesional
+* Mendukung berbagai perangkat dengan media queries
+* Konsistensi dalam color scheme (# dan #)
 
 ## Cara Melihat Portofolio Ini 🖥️
 
