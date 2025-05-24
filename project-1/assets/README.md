@@ -2,15 +2,15 @@
 Ini adalah proyek yang dikembangkan sebagai bagian dari Ujian Tengah Semester (UTS) saya. Proyek ini berfokus pada pembangunan antarmuka pengguna interaktif menggunakan HTML, CSS, dan JavaScript, serta menjadi fondasi untuk portofolio pribadi ini.
 
 ## Preview Portfolio
-![img 1](assets/images/fotopribadi.png)
+![fotopribadi](assets/images/fotopribadi.png)
 
 
 ## Struktur Proyek 📂
 Repositori ini diatur dengan struktur yang rapi untuk memudahkan navigasi:
 
-                UTS/                      # Folder proyek portfolio
+                UTS/                  # Folder proyek portfolio
                 │
-                ├── index.html            # Halaman utama portfolio
+                ├── index.html        # Halaman utama portfolio
                 └── assets/
                 ├── css/              # Stylesheets utama (CSS)
                 │   ├── style.css  
@@ -28,24 +28,24 @@ Repositori ini diatur dengan struktur yang rapi untuk memudahkan navigasi:
 
 ## 🚀 Fitur Utama 
 ### 1.	Header/Navigation
-        o Menu navigasi responsif
-        o Logo personal
-        o Smooth scrolling ke setiap section
+o Menu navigasi responsif
+o Logo personal
+o Smooth scrolling ke setiap section
 ### 2.	Hero Section 
-        o Foto profile profesional
-        o Nama dan tagline
-        o Social media links
+o Foto profile profesional
+o Nama dan tagline
+o Social media links
 ### 3.	About Me
-        o Deskripsi personal
-        o Skills/expertise dengan progress bar
-        o Education timeline
+o Deskripsi personal
+o Skills/expertise dengan progress bar
+o Education timeline
 ### 4.	Portfolio Gallery
-        o Grid layout dengan 6 proyek
-        o Lightbox preview untuk setiap proyek
-        o Filter kategori menggunakan JavaScript
+o Grid layout dengan 6 proyek
+o Lightbox preview untuk setiap proyek
+o Filter kategori menggunakan JavaScript
 ### 5.	JavaScript fitur
-        o Form contact dengan validasi 
-        o Dark/Light mode toggle 
+o Form contact dengan validasi 
+o Dark/Light mode toggle 
 
 ## Cara Melihat Portofolio Ini 🖥️
 
