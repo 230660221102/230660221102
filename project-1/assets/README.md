@@ -2,10 +2,10 @@
 Ini adalah proyek yang dikembangkan sebagai bagian dari Ujian Tengah Semester (UTS) saya. Proyek ini berfokus pada pembangunan antarmuka pengguna interaktif menggunakan HTML, CSS, dan JavaScript, serta menjadi fondasi untuk portofolio pribadi ini.
 
 ## Preview Portfolio
-### Preview satu
-![projects](images/images/preview1.png)
-### Preview dua darkmode
-![projects](images/images/preview1.png)
+**Dark Mode Toggle ☀️:**
+![projects](images/preview1.png)
+**Dark Mode Toggle 🌙:**
+![projects](images/preview1.png)
 
 
 ## Struktur Proyek 📂
