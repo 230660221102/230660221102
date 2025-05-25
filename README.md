@@ -12,6 +12,7 @@
 #### **Connect With Me!** 📲
 ![https://www.instagram.com/ejaavin_/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://youtube.com/@jkmra?si=V2tm7DwWlqxpHj_7](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white) ![https://stie11aprilsumedang.academia.edu/JajangKomara](https://img.shields.io/badge/Academia-fff?style=for-the-badge&logo=academia&logoColor=black)
 
+## play games
 <img src="https://raw.githubusercontent.com/230660221102/230660221102/output/snake.svg" alt="Snake animation" />
 
 ###
