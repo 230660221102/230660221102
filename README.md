@@ -1,5 +1,8 @@
 # Hi, Im Joyy 👋
 *Kids Need to Learn!*
+
+
+
 ![Profile](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2ViNXpyMzBtZmRhYW5xbXZ1b3IzcWkxbGo4MDFkaWw4MWJqcDFrMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oJjxexthHrPbi/giphy.gif)
 
 
