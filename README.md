@@ -3,7 +3,7 @@
 
 
 ![Profile](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmZkY2ExeTQ2cWFjYXk5d3MzZmJ0OHJveDJwbDRqYjZvb25reWNpbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Mm9enGo4CYC5O/giphy.gif) 
-![cover](COV/COV.png)
+
 
 #### **Skills** 
 [![My Skills](https://skillicons.dev/icons?i=css,html,php&theme=dark)](https://skillicons.dev)
